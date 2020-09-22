@@ -14,7 +14,7 @@ description: Find your next conference
 version: 1.0.1+4
 
 environment:
-  sdk: ">=2.2.0 <3.0.0"
+  sdk: '>=2.6.0 <3.0.0'
 
 dependencies:
   flutter:
@@ -28,6 +28,7 @@ dependencies:
   bloc: ^6.0.3
   flutter_bloc: ^6.0.5
   bloc_test: ^7.0.4
+  hydrated_bloc: ^6.0.1
   rxdart: ^0.24.0
   http: ^0.12.2
   equatable: ^1.2.5
